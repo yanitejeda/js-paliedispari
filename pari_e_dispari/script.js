@@ -24,7 +24,7 @@ console.log(numberRandom)
 console.log(somma);
 
 
-if (somma % 2 === 0 ){
+if (somma % 2 === 0 ){//se la somma dei numeri è multiplo di due
     alert ('il numero è pari')
 } else {
     alert ('il numero è dispari')
